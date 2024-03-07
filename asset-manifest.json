@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cs32-mock/static/css/main.b3a0666c.css",
+    "main.js": "/cs32-mock/static/js/main.875cedab.js",
+    "index.html": "/cs32-mock/index.html",
+    "main.b3a0666c.css.map": "/cs32-mock/static/css/main.b3a0666c.css.map",
+    "main.875cedab.js.map": "/cs32-mock/static/js/main.875cedab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3a0666c.css",
+    "static/js/main.875cedab.js"
+  ]
+}
